@@ -1,0 +1,22 @@
+body {
+    background: #cccccc;
+}
+
+.mainHeader {
+    color: brown;
+}
+
+.sectionHeader {
+    color: rgb(42, 165, 124);
+    background: pink;
+}
+
+.diaryHeader {
+    color: red;
+    font-size: 64px;
+}
+
+
+p {
+    color: rgb(0, 4, 255);
+}
